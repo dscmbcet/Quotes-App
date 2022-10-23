@@ -23,7 +23,7 @@ Flutter app for displaying quotes.
 </br>
 
 # Contributors
-[![Contributors](https://contrib.rocks/image?repo=dscmbcet/hacktoberfest-2022)](https://github.com/dscmbcet/Quotes-App/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=dscmbcet/Quotes-App)](https://github.com/dscmbcet/Quotes-App/graphs/contributors)
 
 </br>
 
