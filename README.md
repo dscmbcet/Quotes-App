@@ -1,16 +1,30 @@
-# letsquote
+# Let's Quote
+Flutter app for displaying quotes.
+# Contributing
 
-A new Flutter project.
+- Clone the repository
+  ```sh
+  git clone https://github.com/dscmbcet/Quotes-App
+  ```
+- Open the [quotes.json](./assets/quotes.json) file.
+- Add in your quote inside the "items" key in the below format
+  ```json
+  {
+    "author": "Napoleon Hill",
+    "quote": "Whatever the mind of man can conceive and believe, it can achieve."
+  }
+  ```
+- Commit changes and then open a pull request to this repository.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# Screenshots
+![](./images/ss.jpg)
 
-A few resources to get you started if this is your first Flutter project:
+</br>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Contributors
+[![Contributors](https://contrib.rocks/image?repo=dscmbcet/hacktoberfest-2022)](https://github.com/dscmbcet/Quotes-App/graphs/contributors)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+</br>
+
+[![](./images/GDSC%20Logo%20Horizontal.png)](https://gdscmbcet.com)
